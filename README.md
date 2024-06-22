@@ -1,6 +1,6 @@
 [Syed Daiyan](https://www.linkedin.com/in/smnd/)
 
-### Data Scientist
+# Data Scientist
 
 ### Education
 BSc Data Science & Business Analytics
