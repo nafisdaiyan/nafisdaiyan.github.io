@@ -1,4 +1,4 @@
-Syed Daiyan
+[Syed Daiyan](https://www.linkedin.com/in/smnd/)
 
 ### Data Scientist
 
