@@ -1,6 +1,6 @@
 # Syed Daiyan
 
-##Data Scientist
+## Data Scientist
 
 ### Education
 BSc Data Science & Business Analytics
