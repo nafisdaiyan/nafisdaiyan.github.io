@@ -1,4 +1,4 @@
-# Data Scientist
+# Syed Mohammad Nafis Daiyan
 
 ### Education
 BSc Data Science & Business Analytics  
