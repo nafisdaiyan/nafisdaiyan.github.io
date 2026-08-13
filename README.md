@@ -1,5 +1,3 @@
-[Syed Daiyan](https://www.linkedin.com/in/smnd/)
-
 # Data Scientist
 
 ### Education
@@ -13,3 +11,7 @@ Academic Researcher, [Mahdy Research Academy](https://sites.google.com/view/mahd
 [British Airways Job Simulation](https://github.com/nafisdaiyan/british-airways-job-sim)
 
 [Automatic Cell Segmentation](https://github.com/nafisdaiyan/Automatic_Cell_Segmentaiton)
+
+### Public Profiles
+[LinkedIn](https://www.linkedin.com/in/smnd/)  
+[GitHub](https://github.com/nafisdaiyan)
