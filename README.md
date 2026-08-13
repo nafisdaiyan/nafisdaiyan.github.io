@@ -10,6 +10,6 @@ University of London (London School of Economics)
 Academic Researcher, [Mahdy Research Academy](https://sites.google.com/view/mahdyresearchacademy/home)
 
 ### Projects
-[British Airways Customer Review Analysis](https://github.com/nafisdaiyan/British_Airways)
+[British Airways Job Simulation](https://github.com/nafisdaiyan/british-airways-job-sim)
 
 [Automatic Cell Segmentation](https://github.com/nafisdaiyan/Automatic_Cell_Segmentaiton)
