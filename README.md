@@ -1,5 +1,7 @@
 # Syed Mohammad Nafis Daiyan
 
+## Data Scientist
+
 ### Education
 BSc Data Science & Business Analytics  
 University of London (London School of Economics)
